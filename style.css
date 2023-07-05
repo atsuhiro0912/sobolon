@@ -370,7 +370,7 @@ img {
 }
 @media screen and (min-width: 768px) {
   .about {
-    background: url(bgのコピー.png) center center/cover;
+    background: url(bg-copy.png) center center/cover;
   }
 }
 .about::before {
